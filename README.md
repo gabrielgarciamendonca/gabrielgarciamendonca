@@ -1,3 +1,2 @@
 ### Hi there 👋
-
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<p align="center"> <img src="https://github.com/gabrielgarciamendonca/gabrielgarciamendonca/blob/main/GITBANNER.png" alt="gabrielgarciamendonca" /> </p>
