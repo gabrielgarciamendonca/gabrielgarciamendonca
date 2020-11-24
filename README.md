@@ -12,5 +12,5 @@
 
 
 ## Hobbies :books:
-<p>Nas minhas horas vagas eu gosto de jogar, ouvir musicas, e planejar novas coisas possibilidades para algo em mente. E programo por paixão.</p>
+<p>Nas minhas horas vagas eu gosto de jogar, ouvir musicas, e planejar novas possibilidades para algo em mente. E programo por paixão.</p>
 <a href=""><img src="https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white" /></a><a href=""><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>
