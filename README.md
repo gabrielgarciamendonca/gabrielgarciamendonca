@@ -1,5 +1,5 @@
 ###
-<p align="center"> <img src="https://github.com/gabrielgarciamendonca/gabrielgarciamendonca/blob/main/new_background.png" alt="gabrielgarciamendonca" /> </p>
+<p align="center"> <img src="https://github.com/gabrielgarciamendonca/gabrielgarciamendonca/blob/main/new_back.png" alt="gabrielgarciamendonca" /> </p>
 
 # About myself
 I program for passion, as well as play for fun, I like to visit new places, and travel, I swim as a sport.
