@@ -1,8 +1,6 @@
 ###
 <p align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQEYrJyWBWu8Wg/profile-displaybackgroundimage-shrink_350_1400/0/1684779848431?e=1690416000&v=beta&t=rwrOjrcASFwNyk1RtZ86VLjRvooZvR_yeG4LIDPk-ak" alt="gabrielgarciamendonca" /> </p>
 
-# About myself
-![Metrics](https://metrics.lecoq.io/gabrielgarciamendonca?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=America%2FSao_Paulo)
 
 ## Tech Stack :rocket:
 ### Languages
