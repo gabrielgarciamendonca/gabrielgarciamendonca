@@ -5,7 +5,7 @@
 ## Programador Mobile, Amante de Video Games e Aprendiz Constante
 Olá! Meu nome é Gabriel Garcia, e sou um programador mobile apaixonado por tecnologia. Estou sempre em busca de novos desafios e oportunidades para aprender e aprimorar minhas habilidades.
 
-Tenho experiência no desenvolvimento de aplicativos para dispositivos iOS e Android, utilizando linguagens como Swift, Kotlin e React Native. Ao longo dos anos, participei de diversos projetos nos quais pude aplicar meu conhecimento e criar soluções inovadoras.
+Tenho experiência no desenvolvimento de aplicativos para dispositivos iOS e Android, utilizando linguagens como Kotlin e React Native. Ao longo dos anos, participei de diversos projetos nos quais pude aplicar meu conhecimento e criar soluções inovadoras.
 
 Além do meu trabalho como programador, sou um entusiasta de video games. Acredito que os jogos têm o poder de inspirar e impulsionar a criatividade. Eles também influenciam minha abordagem ao desenvolvimento de aplicativos, buscando proporcionar experiências envolventes e agradáveis aos usuários.
 
