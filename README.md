@@ -1,17 +1,18 @@
 ###
-<p align="center"> <img src="https://raw.githubusercontent.com/gabrielgarciamendonca/gabrielgarciamendonca/main/REACT_NATIVE.webp" alt="gabrielgarciamendonca" /> </p>
+<p align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQEYrJyWBWu8Wg/profile-displaybackgroundimage-shrink_350_1400/0/1684779848431?e=1690416000&v=beta&t=rwrOjrcASFwNyk1RtZ86VLjRvooZvR_yeG4LIDPk-ak" alt="gabrielgarciamendonca" /> </p>
 
 # About myself
-I program for passion, as well as play for fun, I like to visit new places, and travel, I swim as a sport.
-
-I recently discovered the world of web development, since then I have been specializing in technologies and improving my skills. Everything to make the experience of a website striking and simple.
-
-# Status
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielgarciamendonca&theme=midnight-purple)
+![Metrics](https://metrics.lecoq.io/gabrielgarciamendonca?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=America%2FSao_Paulo)
 
 ## Tech Stack :rocket:
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,kotlin,html)](https://skillicons.dev)
 ### Front End
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img  src="https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=A100FF"><img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+[![My Skills](https://skillicons.dev/icons?i=react,redux,vite,electron,apollo,graphql,css)](https://skillicons.dev)
+### Back End
+[![My Skills](https://skillicons.dev/icons?i=nodejs,docker,nestjs,express)](https://skillicons.dev)
+### Enviroments
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,atom,androidstudio)](https://skillicons.dev)
 
 # Education
 <table>
@@ -19,11 +20,6 @@ I recently discovered the world of web development, since then I have been speci
     <th>Course</th>
     <th>School/University</th>
     <th>Year of Passing</th>
-  </tr>
-  <tr>
-    <td>Analysis and systems development</td>
-    <td><a href="https://portal.cmp.ifsp.edu.br/">Instituto Federal de Educação, Ciência e Tecnologia de São Paulo</a></td>
-    <td>2023</td>
   </tr>
   <tr>
     <td>Software Development</td>
@@ -36,9 +32,3 @@ I recently discovered the world of web development, since then I have been speci
     <td>2021</td>
   </tr>
  </table>
-
-# Skills
-- Front-End web development
-- Swiming
-- SoftSkills
-- Gamer
