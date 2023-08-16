@@ -15,7 +15,7 @@ Obrigado por visitar meu perfil do GitHub!
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
 ### Front End
-[![My Skills](https://skillicons.dev/icons?i=react,redux,electron,apollo,graphql,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,apollo,graphql)](https://skillicons.dev)
 ### Back End
 [![My Skills](https://skillicons.dev/icons?i=nodejs,docker,express)](https://skillicons.dev)
 ### Enviroments
