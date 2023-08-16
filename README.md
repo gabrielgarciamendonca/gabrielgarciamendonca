@@ -1,7 +1,3 @@
-###
-<p align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQEYrJyWBWu8Wg/profile-displaybackgroundimage-shrink_350_1400/0/1684779848431?e=1690416000&v=beta&t=rwrOjrcASFwNyk1RtZ86VLjRvooZvR_yeG4LIDPk-ak" alt="gabrielgarciamendonca" /> </p>
-
-
 ## Programador Mobile, Amante de Video Games e Aprendiz Constante
 Olá! Meu nome é Gabriel Garcia, e sou um programador mobile apaixonado por tecnologia. Estou sempre em busca de novos desafios e oportunidades para aprender e aprimorar minhas habilidades.
 
