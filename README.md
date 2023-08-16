@@ -13,7 +13,7 @@ Obrigado por visitar meu perfil do GitHub!
 
 ## Tech Stack :rocket:
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=typescript,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
 ### Front End
 [![My Skills](https://skillicons.dev/icons?i=react,redux,electron,apollo,graphql,css)](https://skillicons.dev)
 ### Back End
